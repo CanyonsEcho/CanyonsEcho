@@ -7,4 +7,4 @@ I am a:
 - Unprofessional dingus
 
 I stay up way too late sometimes.
-The only thing I worry about in life is running out of ai tokens.
+The only thing I worry about in life is running out of tokens.
